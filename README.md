@@ -1,1 +1,1 @@
-
+To test the example type $npm test
